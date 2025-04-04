@@ -1,0 +1,791 @@
+2025-04-03 17:23:41,502 - Start verwerking van 0 afbeeldingen
+2025-04-03 17:23:41,511 - 
+        Annotatie voltooid op 2025-04-03 17:23:41
+        ---------------------------------------------------
+        Opgeslagen afbeeldingen: 0
+        Door gebruiker verwijderd: 0
+        Automatisch genegeerd (lage confidence): 0
+        Totaal verwerkt: 0
+        
+2025-04-03 17:31:04,493 - Start verwerking van 324 afbeeldingen
+2025-04-03 17:31:16,723 - Afbeelding Eframe_0000.png opgeslagen met 1 annotaties
+2025-04-03 17:31:21,968 - Afbeelding Eframe_0001.png opgeslagen met 1 annotaties
+2025-04-03 17:31:23,305 - Afbeelding Eframe_0002.png opgeslagen met 1 annotaties
+2025-04-03 17:31:23,715 - Afbeelding Eframe_0003.png opgeslagen met 1 annotaties
+2025-04-03 17:31:24,091 - Afbeelding Eframe_0004.png opgeslagen met 1 annotaties
+2025-04-03 17:31:24,372 - Afbeelding Eframe_0005.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:24,671 - Afbeelding Eframe_0006.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:24,961 - Afbeelding Eframe_0007.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:27,652 - Afbeelding Eframe_0008.png opgeslagen met 2 annotaties
+2025-04-03 17:31:28,979 - Afbeelding Eframe_0009.png opgeslagen met 1 annotaties
+2025-04-03 17:31:30,229 - Afbeelding Eframe_0010.png opgeslagen met 1 annotaties
+2025-04-03 17:31:31,786 - Afbeelding Eframe_0011.png opgeslagen met 1 annotaties
+2025-04-03 17:31:32,171 - Afbeelding Eframe_0012.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:33,623 - Afbeelding Eframe_0013.png opgeslagen met 1 annotaties
+2025-04-03 17:31:34,045 - Afbeelding Eframe_0014.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:34,340 - Afbeelding Eframe_0015.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:36,078 - Afbeelding Eframe_0016.png opgeslagen met 1 annotaties
+2025-04-03 17:31:36,786 - Afbeelding Eframe_0017.png opgeslagen met 1 annotaties
+2025-04-03 17:31:37,439 - Afbeelding Eframe_0018.png opgeslagen met 1 annotaties
+2025-04-03 17:31:37,857 - Afbeelding Eframe_0019.png opgeslagen met 1 annotaties
+2025-04-03 17:31:38,225 - Afbeelding Eframe_0020.png opgeslagen met 1 annotaties
+2025-04-03 17:31:38,585 - Afbeelding Eframe_0021.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:38,875 - Afbeelding Eframe_0022.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:39,149 - Afbeelding Eframe_0023.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:39,442 - Afbeelding Eframe_0024.png opgeslagen met 1 annotaties
+2025-04-03 17:31:39,749 - Afbeelding Eframe_0025.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:40,015 - Afbeelding Eframe_0026.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:40,264 - Afbeelding Eframe_0027.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:40,542 - Afbeelding Eframe_0028.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:40,821 - Afbeelding Eframe_0029.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:41,091 - Afbeelding Eframe_0030.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:41,363 - Afbeelding Eframe_0031.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:41,647 - Afbeelding Eframe_0032.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:41,916 - Afbeelding Eframe_0033.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:42,182 - Afbeelding Eframe_0034.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:42,519 - Afbeelding Eframe_0035.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:42,870 - Afbeelding Eframe_0036.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:43,223 - Afbeelding Eframe_0037.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:43,487 - Afbeelding Eframe_0038.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:43,778 - Afbeelding Eframe_0039.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:44,059 - Afbeelding Eframe_0040.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:44,333 - Afbeelding Eframe_0041.png opgeslagen met 1 annotaties
+2025-04-03 17:31:44,667 - Afbeelding Eframe_0042.png opgeslagen met 1 annotaties
+2025-04-03 17:31:45,590 - Afbeelding Eframe_0043.png opgeslagen met 1 annotaties
+2025-04-03 17:31:46,089 - Afbeelding Eframe_0044.png opgeslagen met 1 annotaties
+2025-04-03 17:31:46,447 - Afbeelding Eframe_0045.png opgeslagen met 1 annotaties
+2025-04-03 17:31:46,765 - Afbeelding Eframe_0046.png opgeslagen met 1 annotaties
+2025-04-03 17:31:47,068 - Afbeelding Eframe_0047.png opgeslagen met 1 annotaties
+2025-04-03 17:31:47,369 - Afbeelding Eframe_0048.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:47,667 - Afbeelding Eframe_0049.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:47,966 - Afbeelding Eframe_0050.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:48,288 - Afbeelding Eframe_0051.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:48,577 - Afbeelding Eframe_0052.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:48,922 - Afbeelding Eframe_0053.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:49,263 - Afbeelding Eframe_0054.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:49,607 - Afbeelding Eframe_0055.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:49,914 - Afbeelding Eframe_0056.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:50,215 - Afbeelding Eframe_0057.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:50,532 - Afbeelding Eframe_0058.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:50,826 - Afbeelding Eframe_0059.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:51,110 - Afbeelding Eframe_0060.png opgeslagen met 1 annotaties
+2025-04-03 17:31:51,458 - Afbeelding Eframe_0061.png opgeslagen met 1 annotaties
+2025-04-03 17:31:51,824 - Afbeelding Eframe_0062.png opgeslagen met 1 annotaties
+2025-04-03 17:31:52,151 - Afbeelding Eframe_0063.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:31:57,539 - Afbeelding Eframe_0064.png opgeslagen met 1 annotaties
+2025-04-03 17:31:58,344 - Afbeelding Eframe_0065.png opgeslagen met 1 annotaties
+2025-04-03 17:31:59,041 - Afbeelding Eframe_0066.png opgeslagen met 1 annotaties
+2025-04-03 17:31:59,737 - Afbeelding Eframe_0067.png opgeslagen met 1 annotaties
+2025-04-03 17:32:00,176 - Afbeelding Eframe_0068.png opgeslagen met 1 annotaties
+2025-04-03 17:32:00,547 - Afbeelding Eframe_0069.png opgeslagen met 1 annotaties
+2025-04-03 17:32:00,905 - Afbeelding Eframe_0070.png opgeslagen met 1 annotaties
+2025-04-03 17:32:01,220 - Afbeelding Eframe_0071.png opgeslagen met 1 annotaties
+2025-04-03 17:32:01,519 - Afbeelding Eframe_0072.png opgeslagen met 1 annotaties
+2025-04-03 17:32:01,815 - Afbeelding Eframe_0073.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:32:02,247 - Afbeelding Eframe_0074.png opgeslagen met 1 annotaties
+2025-04-03 17:32:02,560 - Afbeelding Eframe_0075.png opgeslagen met 1 annotaties
+2025-04-03 17:32:04,507 - Afbeelding Eframe_0076.png opgeslagen met 1 annotaties
+2025-04-03 17:32:04,901 - Afbeelding Eframe_0077.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:32:05,272 - Afbeelding Eframe_0078.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:32:05,634 - Afbeelding Eframe_0079.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:32:05,955 - Afbeelding Eframe_0080.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:32:06,344 - Afbeelding Eframe_0081.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:32:06,700 - Afbeelding Eframe_0082.png opgeslagen met 1 annotaties
+2025-04-03 17:32:06,977 - Afbeelding Eframe_0083.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:32:07,286 - Afbeelding Eframe_0084.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:32:07,583 - Afbeelding Eframe_0085.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:32:07,883 - Afbeelding Eframe_0086.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:32:08,176 - Afbeelding Eframe_0087.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:32:08,468 - Afbeelding Eframe_0088.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:32:08,746 - Afbeelding Eframe_0089.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:32:09,017 - Afbeelding Eframe_0090.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:32:09,308 - Afbeelding Eframe_0091.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:32:09,607 - Afbeelding Eframe_0092.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:32:09,932 - Afbeelding Eframe_0093.png opgeslagen met 1 annotaties
+2025-04-03 17:32:10,238 - Afbeelding Eframe_0094.png opgeslagen met 1 annotaties
+2025-04-03 17:32:24,104 - Afbeelding Eframe_0095.png opgeslagen met 1 annotaties
+2025-04-03 17:32:24,494 - Afbeelding Eframe_0096.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:32:26,828 - Afbeelding Eframe_0097.png opgeslagen met 1 annotaties
+2025-04-03 17:32:28,537 - Afbeelding Eframe_0098.png opgeslagen met 1 annotaties
+2025-04-03 17:32:28,906 - Afbeelding Eframe_0099.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:32:29,627 - Afbeelding Eframe_0100.png opgeslagen met 1 annotaties
+2025-04-03 17:32:30,014 - Afbeelding Eframe_0101.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:32:30,357 - Afbeelding Eframe_0102.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:32:30,671 - Afbeelding Eframe_0103.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:32:30,975 - Afbeelding Eframe_0104.png opgeslagen met 1 annotaties
+2025-04-03 17:32:35,379 - Afbeelding Eframe_0105.png opgeslagen met 1 annotaties
+2025-04-03 17:32:36,353 - Afbeelding Eframe_0106.png opgeslagen met 1 annotaties
+2025-04-03 17:32:37,095 - Afbeelding Eframe_0107.png opgeslagen met 1 annotaties
+2025-04-03 17:32:39,569 - Afbeelding Eframe_0108.png opgeslagen met 1 annotaties
+2025-04-03 17:32:45,781 - Afbeelding Eframe_0109.png opgeslagen met 1 annotaties
+2025-04-03 17:32:52,357 - Afbeelding Eframe_0110.png opgeslagen met 1 annotaties
+2025-04-03 17:32:54,107 - Afbeelding Eframe_0111.png opgeslagen met 1 annotaties
+2025-04-03 17:32:54,989 - Afbeelding Eframe_0112.png opgeslagen met 1 annotaties
+2025-04-03 17:32:55,889 - Afbeelding Eframe_0113.png opgeslagen met 1 annotaties
+2025-04-03 17:32:56,605 - Afbeelding Eframe_0114.png opgeslagen met 1 annotaties
+2025-04-03 17:32:57,477 - Afbeelding Eframe_0115.png opgeslagen met 1 annotaties
+2025-04-03 17:33:02,343 - Afbeelding Eframe_0116.png opgeslagen met 1 annotaties
+2025-04-03 17:33:09,048 - Afbeelding Eframe_0117.png opgeslagen met 1 annotaties
+2025-04-03 17:33:10,210 - Afbeelding Eframe_0118.png opgeslagen met 1 annotaties
+2025-04-03 17:33:11,116 - Afbeelding Eframe_0119.png opgeslagen met 1 annotaties
+2025-04-03 17:33:11,519 - Afbeelding Eframe_0120.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:11,840 - Afbeelding Eframe_0121.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:12,150 - Afbeelding Eframe_0122.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:12,447 - Afbeelding Eframe_0123.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:12,737 - Afbeelding Eframe_0124.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:13,025 - Afbeelding Eframe_0125.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:13,323 - Afbeelding Eframe_0126.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:13,631 - Afbeelding Eframe_0127.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:13,966 - Afbeelding Eframe_0128.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:14,263 - Afbeelding Eframe_0129.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:14,537 - Afbeelding Eframe_0130.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:14,825 - Afbeelding Eframe_0131.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:15,109 - Afbeelding Eframe_0132.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:15,403 - Afbeelding Eframe_0133.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:15,697 - Afbeelding Eframe_0134.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:15,989 - Afbeelding Eframe_0135.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:16,274 - Afbeelding Eframe_0136.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:16,594 - Afbeelding Eframe_0137.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:16,881 - Afbeelding Eframe_0138.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:17,163 - Afbeelding Eframe_0139.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:17,467 - Afbeelding Eframe_0140.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:17,771 - Afbeelding Eframe_0141.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:18,095 - Afbeelding Eframe_0142.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:18,413 - Afbeelding Eframe_0143.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:18,750 - Afbeelding Eframe_0144.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:19,066 - Afbeelding Eframe_0145.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:19,385 - Afbeelding Eframe_0146.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:19,673 - Afbeelding Eframe_0147.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:19,989 - Afbeelding Eframe_0148.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:20,277 - Afbeelding Eframe_0149.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:20,538 - Afbeelding Eframe_0150.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:20,796 - Afbeelding Eframe_0151.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:21,143 - Afbeelding Eframe_0152.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:21,495 - Afbeelding Eframe_0153.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:21,828 - Afbeelding Eframe_0154.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:22,165 - Afbeelding Eframe_0155.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:22,508 - Afbeelding Eframe_0156.png opgeslagen met 1 annotaties
+2025-04-03 17:33:22,856 - Afbeelding Eframe_0157.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:23,200 - Afbeelding Eframe_0158.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:23,532 - Afbeelding Eframe_0159.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:23,865 - Afbeelding Eframe_0160.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:24,202 - Afbeelding Eframe_0161.png opgeslagen met 1 annotaties
+2025-04-03 17:33:24,548 - Afbeelding Eframe_0162.png opgeslagen met 1 annotaties
+2025-04-03 17:33:24,879 - Afbeelding Eframe_0163.png opgeslagen met 1 annotaties
+2025-04-03 17:33:25,199 - Afbeelding Eframe_0164.png opgeslagen met 1 annotaties
+2025-04-03 17:33:25,504 - Afbeelding Eframe_0165.png opgeslagen met 1 annotaties
+2025-04-03 17:33:25,815 - Afbeelding Eframe_0166.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:26,141 - Afbeelding Eframe_0167.png opgeslagen met 1 annotaties
+2025-04-03 17:33:26,473 - Afbeelding Eframe_0168.png opgeslagen met 1 annotaties
+2025-04-03 17:33:26,795 - Afbeelding Eframe_0169.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:27,105 - Afbeelding Eframe_0170.png opgeslagen met 1 annotaties
+2025-04-03 17:33:36,176 - Afbeelding Eframe_0171.png genegeerd door gebruiker
+2025-04-03 17:33:44,193 - Afbeelding Eframe_0172.png opgeslagen met 1 annotaties
+2025-04-03 17:33:45,531 - Afbeelding Eframe_0173.png opgeslagen met 1 annotaties
+2025-04-03 17:33:46,545 - Afbeelding Eframe_0174.png opgeslagen met 1 annotaties
+2025-04-03 17:33:48,063 - Afbeelding Eframe_0175.png opgeslagen met 1 annotaties
+2025-04-03 17:33:48,937 - Afbeelding Eframe_0176.png opgeslagen met 1 annotaties
+2025-04-03 17:33:49,318 - Afbeelding Eframe_0177.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:49,666 - Afbeelding Eframe_0178.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:50,008 - Afbeelding Eframe_0179.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:50,357 - Afbeelding Eframe_0180.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:50,715 - Afbeelding Eframe_0181.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:51,055 - Afbeelding Eframe_0182.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:51,325 - Afbeelding Eframe_0183.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:51,599 - Afbeelding Eframe_0184.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:51,873 - Afbeelding Eframe_0185.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:52,156 - Afbeelding Eframe_0186.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:52,460 - Afbeelding Eframe_0187.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:52,751 - Afbeelding Eframe_0188.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:53,032 - Afbeelding Eframe_0189.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:53,300 - Afbeelding Eframe_0190.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:53,571 - Afbeelding Eframe_0191.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:53,850 - Afbeelding Eframe_0192.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:54,142 - Afbeelding Eframe_0193.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:54,433 - Afbeelding Eframe_0194.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:54,708 - Afbeelding Eframe_0195.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:55,004 - Afbeelding Eframe_0196.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:55,303 - Afbeelding Eframe_0197.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:55,602 - Afbeelding Eframe_0198.png opgeslagen met 1 annotaties
+2025-04-03 17:33:55,881 - Afbeelding Eframe_0199.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:56,159 - Afbeelding Eframe_0200.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:56,437 - Afbeelding Eframe_0201.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:56,750 - Afbeelding Eframe_0202.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:57,048 - Afbeelding Eframe_0203.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:57,318 - Afbeelding Eframe_0204.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:57,583 - Afbeelding Eframe_0205.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:57,853 - Afbeelding Eframe_0206.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:58,143 - Afbeelding Eframe_0207.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:58,420 - Afbeelding Eframe_0208.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:58,767 - Afbeelding Eframe_0209.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:59,113 - Afbeelding Eframe_0210.png opgeslagen met 1 annotaties
+2025-04-03 17:33:59,431 - Afbeelding Eframe_0211.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:59,716 - Afbeelding Eframe_0212.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:33:59,991 - Afbeelding Eframe_0213.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:00,296 - Afbeelding Eframe_0214.png opgeslagen met 1 annotaties
+2025-04-03 17:34:00,572 - Afbeelding Eframe_0215.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:00,856 - Afbeelding Eframe_0216.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:01,147 - Afbeelding Eframe_0217.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:01,441 - Afbeelding Eframe_0218.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:01,731 - Afbeelding Eframe_0219.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:02,023 - Afbeelding Eframe_0220.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:02,361 - Afbeelding Eframe_0221.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:02,628 - Afbeelding Eframe_0222.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:02,937 - Afbeelding Eframe_0223.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:03,229 - Afbeelding Eframe_0224.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:03,505 - Afbeelding Eframe_0225.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:03,801 - Afbeelding Eframe_0226.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:04,086 - Afbeelding Eframe_0227.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:04,353 - Afbeelding Eframe_0228.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:04,645 - Afbeelding Eframe_0229.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:04,929 - Afbeelding Eframe_0230.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:05,216 - Afbeelding Eframe_0231.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:05,492 - Afbeelding Eframe_0232.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:05,835 - Afbeelding Eframe_0233.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:06,130 - Afbeelding Eframe_0234.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:06,413 - Afbeelding Eframe_0235.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:06,722 - Afbeelding Eframe_0236.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:06,998 - Afbeelding Eframe_0237.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:07,273 - Afbeelding Eframe_0238.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:07,561 - Afbeelding Eframe_0239.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:07,819 - Afbeelding Eframe_0240.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:08,101 - Afbeelding Eframe_0241.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:08,375 - Afbeelding Eframe_0242.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:08,649 - Afbeelding Eframe_0243.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:08,915 - Afbeelding Eframe_0244.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:09,241 - Afbeelding Eframe_0245.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:09,566 - Afbeelding Eframe_0246.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:09,898 - Afbeelding Eframe_0247.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:10,254 - Afbeelding Eframe_0248.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:10,550 - Afbeelding Eframe_0249.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:10,844 - Afbeelding Eframe_0250.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:11,191 - Afbeelding Eframe_0251.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:11,544 - Afbeelding Eframe_0252.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:11,869 - Afbeelding Eframe_0253.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:12,196 - Afbeelding Eframe_0254.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:12,519 - Afbeelding Eframe_0255.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:12,798 - Afbeelding Eframe_0256.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:13,076 - Afbeelding Eframe_0257.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:13,372 - Afbeelding Eframe_0258.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:13,682 - Afbeelding Eframe_0259.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:13,957 - Afbeelding Eframe_0260.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:14,253 - Afbeelding Eframe_0261.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:14,570 - Afbeelding Eframe_0262.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:14,873 - Afbeelding Eframe_0263.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:15,173 - Afbeelding Eframe_0264.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:15,538 - Afbeelding Eframe_0265.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:15,895 - Afbeelding Eframe_0266.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:16,207 - Afbeelding Eframe_0267.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:16,533 - Afbeelding Eframe_0268.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:16,876 - Afbeelding Eframe_0269.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:17,196 - Afbeelding Eframe_0270.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:17,522 - Afbeelding Eframe_0271.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:17,819 - Afbeelding Eframe_0272.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:18,127 - Afbeelding Eframe_0273.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:18,436 - Afbeelding Eframe_0274.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:18,756 - Afbeelding Eframe_0275.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:19,057 - Afbeelding Eframe_0276.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:19,337 - Afbeelding Eframe_0277.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:19,697 - Afbeelding Eframe_0278.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:20,013 - Afbeelding Eframe_0279.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:20,325 - Afbeelding Eframe_0280.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:20,625 - Afbeelding Eframe_0281.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:20,935 - Afbeelding Eframe_0282.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:21,255 - Afbeelding Eframe_0283.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:21,560 - Afbeelding Eframe_0284.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:21,871 - Afbeelding Eframe_0285.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:22,164 - Afbeelding Eframe_0286.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:22,470 - Afbeelding Eframe_0287.png automatisch genegeerd (confidence: 0.00)
+2025-04-03 17:34:22,804 - Afbeelding Eframe_0288.png opgeslagen met 1 annotaties
+2025-04-03 17:34:23,092 - Afbeelding Eframe_0289.png opgeslagen met 1 annotaties
+2025-04-03 17:34:23,401 - Afbeelding Eframe_0290.png opgeslagen met 1 annotaties
+2025-04-03 17:34:23,707 - Afbeelding Eframe_0291.png opgeslagen met 1 annotaties
+2025-04-03 17:34:24,015 - Afbeelding Eframe_0292.png opgeslagen met 1 annotaties
+2025-04-03 17:34:24,325 - Afbeelding Eframe_0293.png opgeslagen met 1 annotaties
+2025-04-03 17:34:24,667 - 
+        Annotatie voltooid op 2025-04-03 17:34:24
+        ---------------------------------------------------
+        Opgeslagen afbeeldingen: 84
+        Door gebruiker verwijderd: 1
+        Automatisch genegeerd (lage confidence): 209
+        Totaal verwerkt: 294
+        
+2025-04-03 20:46:36,553 - Afbeelding Eframe_0000.png genegeerd door gebruiker.
+2025-04-03 20:46:36,754 - Afbeelding Eframe_0001.png genegeerd door gebruiker.
+2025-04-03 20:46:36,903 - Afbeelding Eframe_0002.png genegeerd door gebruiker.
+2025-04-03 20:46:37,050 - Afbeelding Eframe_0003.png genegeerd door gebruiker.
+2025-04-03 20:46:37,340 - Afbeelding Eframe_0005.png genegeerd door gebruiker.
+2025-04-03 20:46:37,483 - Afbeelding Eframe_0006.png genegeerd door gebruiker.
+2025-04-03 20:46:37,624 - Afbeelding Eframe_0007.png genegeerd door gebruiker.
+2025-04-03 20:46:37,771 - Afbeelding Eframe_0008.png genegeerd door gebruiker.
+2025-04-03 20:46:37,929 - Afbeelding Eframe_0009.png genegeerd door gebruiker.
+2025-04-03 20:46:38,078 - Afbeelding Eframe_0010.png genegeerd door gebruiker.
+2025-04-03 20:46:38,230 - Afbeelding Eframe_0011.png genegeerd door gebruiker.
+2025-04-03 20:46:38,376 - Afbeelding Eframe_0012.png genegeerd door gebruiker.
+2025-04-03 20:46:38,538 - Afbeelding Eframe_0013.png genegeerd door gebruiker.
+2025-04-03 20:46:38,697 - Afbeelding Eframe_0014.png genegeerd door gebruiker.
+2025-04-03 20:46:38,869 - Afbeelding Eframe_0015.png genegeerd door gebruiker.
+2025-04-03 20:46:39,030 - Afbeelding Eframe_0016.png genegeerd door gebruiker.
+2025-04-03 20:46:39,361 - Afbeelding Eframe_0018.png genegeerd door gebruiker.
+2025-04-03 20:46:39,513 - Afbeelding Eframe_0019.png genegeerd door gebruiker.
+2025-04-03 20:46:39,667 - Afbeelding Eframe_0020.png genegeerd door gebruiker.
+2025-04-03 20:46:39,826 - Afbeelding Eframe_0021.png genegeerd door gebruiker.
+2025-04-03 20:46:39,989 - Afbeelding Eframe_0022.png genegeerd door gebruiker.
+2025-04-03 20:46:40,165 - Afbeelding Eframe_0023.png genegeerd door gebruiker.
+2025-04-03 20:46:40,378 - Afbeelding Eframe_0024.png genegeerd door gebruiker.
+2025-04-03 20:46:40,552 - Afbeelding Eframe_0025.png genegeerd door gebruiker.
+2025-04-03 20:46:40,706 - Afbeelding Eframe_0026.png genegeerd door gebruiker.
+2025-04-03 20:46:40,867 - Afbeelding Eframe_0027.png genegeerd door gebruiker.
+2025-04-03 20:46:41,025 - Afbeelding Eframe_0028.png genegeerd door gebruiker.
+2025-04-03 20:46:41,187 - Afbeelding Eframe_0029.png genegeerd door gebruiker.
+2025-04-03 20:46:41,410 - Afbeelding Eframe_0030.png genegeerd door gebruiker.
+2025-04-03 20:46:41,569 - Afbeelding Eframe_0031.png genegeerd door gebruiker.
+2025-04-03 20:46:41,720 - Afbeelding Eframe_0032.png genegeerd door gebruiker.
+2025-04-03 20:46:41,879 - Afbeelding Eframe_0033.png genegeerd door gebruiker.
+2025-04-03 20:46:42,022 - Afbeelding Eframe_0034.png genegeerd door gebruiker.
+2025-04-03 20:46:42,204 - Afbeelding Eframe_0035.png genegeerd door gebruiker.
+2025-04-03 20:46:42,383 - Afbeelding Eframe_0036.png genegeerd door gebruiker.
+2025-04-03 20:46:42,628 - Afbeelding Eframe_0037.png genegeerd door gebruiker.
+2025-04-03 20:46:42,896 - Afbeelding Eframe_0038.png genegeerd door gebruiker.
+2025-04-03 20:46:43,114 - Afbeelding Eframe_0039.png genegeerd door gebruiker.
+2025-04-03 20:46:43,349 - Afbeelding Eframe_0040.png genegeerd door gebruiker.
+2025-04-03 20:46:44,518 - Afbeelding Eframe_0045.png genegeerd door gebruiker.
+2025-04-03 20:46:44,696 - Afbeelding Eframe_0046.png genegeerd door gebruiker.
+2025-04-03 20:46:44,863 - Afbeelding Eframe_0047.png genegeerd door gebruiker.
+2025-04-03 20:46:45,033 - Afbeelding Eframe_0048.png genegeerd door gebruiker.
+2025-04-03 20:46:45,184 - Afbeelding Eframe_0049.png genegeerd door gebruiker.
+2025-04-03 20:46:45,343 - Afbeelding Eframe_0050.png genegeerd door gebruiker.
+2025-04-03 20:46:45,512 - Afbeelding Eframe_0051.png genegeerd door gebruiker.
+2025-04-03 20:46:45,666 - Afbeelding Eframe_0052.png genegeerd door gebruiker.
+2025-04-03 20:46:45,898 - Afbeelding Eframe_0053.png genegeerd door gebruiker.
+2025-04-03 20:46:46,159 - Afbeelding Eframe_0054.png genegeerd door gebruiker.
+2025-04-03 20:46:46,409 - Afbeelding Eframe_0055.png genegeerd door gebruiker.
+2025-04-03 20:46:46,624 - Afbeelding Eframe_0056.png genegeerd door gebruiker.
+2025-04-03 20:46:46,806 - Afbeelding Eframe_0057.png genegeerd door gebruiker.
+2025-04-03 20:46:47,003 - Afbeelding Eframe_0058.png genegeerd door gebruiker.
+2025-04-03 20:46:47,283 - Afbeelding Eframe_0059.png genegeerd door gebruiker.
+2025-04-03 20:46:47,489 - Afbeelding Eframe_0060.png genegeerd door gebruiker.
+2025-04-03 20:46:47,761 - Afbeelding Eframe_0061.png genegeerd door gebruiker.
+2025-04-03 20:46:48,329 - Afbeelding Eframe_0063.png genegeerd door gebruiker.
+2025-04-03 20:46:48,599 - Afbeelding Eframe_0064.png genegeerd door gebruiker.
+2025-04-03 20:46:49,100 - Afbeelding Eframe_0067.png genegeerd door gebruiker.
+2025-04-03 20:46:49,285 - Afbeelding Eframe_0068.png genegeerd door gebruiker.
+2025-04-03 20:46:50,405 - Afbeelding Eframe_0073.png genegeerd door gebruiker.
+2025-04-03 20:46:50,573 - Afbeelding Eframe_0074.png genegeerd door gebruiker.
+2025-04-03 20:46:50,824 - Afbeelding Eframe_0075.png genegeerd door gebruiker.
+2025-04-03 20:46:51,163 - Afbeelding Eframe_0076.png genegeerd door gebruiker.
+2025-04-03 20:46:51,426 - Afbeelding Eframe_0077.png genegeerd door gebruiker.
+2025-04-03 20:46:51,728 - Afbeelding Eframe_0078.png genegeerd door gebruiker.
+2025-04-03 20:46:51,902 - Afbeelding Eframe_0079.png genegeerd door gebruiker.
+2025-04-03 20:46:52,068 - Afbeelding Eframe_0080.png genegeerd door gebruiker.
+2025-04-03 20:46:52,237 - Afbeelding Eframe_0081.png genegeerd door gebruiker.
+2025-04-03 20:46:52,469 - Afbeelding Eframe_0082.png genegeerd door gebruiker.
+2025-04-03 20:46:52,619 - Afbeelding Eframe_0083.png genegeerd door gebruiker.
+2025-04-03 20:46:52,808 - Afbeelding Eframe_0084.png genegeerd door gebruiker.
+2025-04-03 20:46:53,039 - Afbeelding Eframe_0085.png genegeerd door gebruiker.
+2025-04-03 20:46:53,204 - Afbeelding Eframe_0086.png genegeerd door gebruiker.
+2025-04-03 20:46:53,407 - Afbeelding Eframe_0087.png genegeerd door gebruiker.
+2025-04-03 20:46:53,656 - Afbeelding Eframe_0088.png genegeerd door gebruiker.
+2025-04-03 20:46:53,937 - Afbeelding Eframe_0089.png genegeerd door gebruiker.
+2025-04-03 20:46:54,100 - Afbeelding Eframe_0090.png genegeerd door gebruiker.
+2025-04-03 20:46:54,253 - Afbeelding Eframe_0091.png genegeerd door gebruiker.
+2025-04-03 20:46:54,408 - Afbeelding Eframe_0092.png genegeerd door gebruiker.
+2025-04-03 20:46:54,569 - Afbeelding Eframe_0093.png genegeerd door gebruiker.
+2025-04-03 20:46:54,717 - Afbeelding Eframe_0094.png genegeerd door gebruiker.
+2025-04-03 20:46:54,867 - Afbeelding Eframe_0095.png genegeerd door gebruiker.
+2025-04-03 20:46:55,007 - Afbeelding Eframe_0096.png genegeerd door gebruiker.
+2025-04-03 20:46:55,152 - Afbeelding Eframe_0097.png genegeerd door gebruiker.
+2025-04-03 20:46:55,297 - Afbeelding Eframe_0098.png genegeerd door gebruiker.
+2025-04-03 20:46:55,440 - Afbeelding Eframe_0099.png genegeerd door gebruiker.
+2025-04-03 20:46:55,588 - Afbeelding Eframe_0100.png genegeerd door gebruiker.
+2025-04-03 20:46:55,732 - Afbeelding Eframe_0101.png genegeerd door gebruiker.
+2025-04-03 20:46:55,876 - Afbeelding Eframe_0102.png genegeerd door gebruiker.
+2025-04-03 20:46:56,033 - Afbeelding Eframe_0103.png genegeerd door gebruiker.
+2025-04-03 20:46:56,261 - Afbeelding Eframe_0104.png genegeerd door gebruiker.
+2025-04-03 20:46:56,503 - Afbeelding Eframe_0105.png genegeerd door gebruiker.
+2025-04-03 20:46:56,834 - Afbeelding Eframe_0107.png genegeerd door gebruiker.
+2025-04-03 20:46:56,986 - Afbeelding Eframe_0108.png genegeerd door gebruiker.
+2025-04-03 20:46:57,150 - Afbeelding Eframe_0109.png genegeerd door gebruiker.
+2025-04-03 20:46:57,385 - Afbeelding Eframe_0110.png genegeerd door gebruiker.
+2025-04-03 20:46:57,958 - Afbeelding Eframe_0112.png genegeerd door gebruiker.
+2025-04-03 20:46:58,204 - Afbeelding Eframe_0113.png genegeerd door gebruiker.
+2025-04-03 20:46:58,679 - Afbeelding Eframe_0115.png genegeerd door gebruiker.
+2025-04-03 20:46:58,832 - Afbeelding Eframe_0116.png genegeerd door gebruiker.
+2025-04-03 20:46:59,043 - Afbeelding Eframe_0117.png genegeerd door gebruiker.
+2025-04-03 20:46:59,440 - Afbeelding Eframe_0119.png genegeerd door gebruiker.
+2025-04-03 20:46:59,664 - Afbeelding Eframe_0120.png genegeerd door gebruiker.
+2025-04-03 20:46:59,850 - Afbeelding Eframe_0121.png genegeerd door gebruiker.
+2025-04-03 20:47:00,069 - Afbeelding Eframe_0122.png genegeerd door gebruiker.
+2025-04-03 20:47:00,392 - Afbeelding Eframe_0123.png genegeerd door gebruiker.
+2025-04-03 20:47:00,555 - Afbeelding Eframe_0124.png genegeerd door gebruiker.
+2025-04-03 20:47:00,715 - Afbeelding Eframe_0125.png genegeerd door gebruiker.
+2025-04-03 20:47:00,915 - Afbeelding Eframe_0126.png genegeerd door gebruiker.
+2025-04-03 20:47:01,150 - Afbeelding Eframe_0127.png genegeerd door gebruiker.
+2025-04-03 20:47:01,478 - Afbeelding Eframe_0128.png genegeerd door gebruiker.
+2025-04-03 20:47:01,642 - Afbeelding Eframe_0129.png genegeerd door gebruiker.
+2025-04-03 20:47:01,829 - Afbeelding Eframe_0130.png genegeerd door gebruiker.
+2025-04-03 20:47:02,083 - Afbeelding Eframe_0131.png genegeerd door gebruiker.
+2025-04-03 20:47:02,296 - Afbeelding Eframe_0132.png genegeerd door gebruiker.
+2025-04-03 20:47:02,484 - Afbeelding Eframe_0133.png genegeerd door gebruiker.
+2025-04-03 20:47:02,658 - Afbeelding Eframe_0134.png genegeerd door gebruiker.
+2025-04-03 20:47:02,836 - Afbeelding Eframe_0135.png genegeerd door gebruiker.
+2025-04-03 20:47:03,108 - Afbeelding Eframe_0136.png genegeerd door gebruiker.
+2025-04-03 20:47:03,288 - Afbeelding Eframe_0137.png genegeerd door gebruiker.
+2025-04-03 20:47:03,495 - Afbeelding Eframe_0138.png genegeerd door gebruiker.
+2025-04-03 20:47:03,661 - Afbeelding Eframe_0139.png genegeerd door gebruiker.
+2025-04-03 20:47:03,816 - Afbeelding Eframe_0140.png genegeerd door gebruiker.
+2025-04-03 20:47:03,978 - Afbeelding Eframe_0141.png genegeerd door gebruiker.
+2025-04-03 20:47:04,151 - Afbeelding Eframe_0142.png genegeerd door gebruiker.
+2025-04-03 20:47:04,310 - Afbeelding Eframe_0143.png genegeerd door gebruiker.
+2025-04-03 20:47:04,548 - Afbeelding Eframe_0144.png genegeerd door gebruiker.
+2025-04-03 20:47:04,708 - Afbeelding Eframe_0145.png genegeerd door gebruiker.
+2025-04-03 20:47:04,875 - Afbeelding Eframe_0146.png genegeerd door gebruiker.
+2025-04-03 20:47:05,063 - Afbeelding Eframe_0147.png genegeerd door gebruiker.
+2025-04-03 20:47:05,270 - Afbeelding Eframe_0148.png genegeerd door gebruiker.
+2025-04-03 20:47:05,433 - Afbeelding Eframe_0149.png genegeerd door gebruiker.
+2025-04-03 20:47:05,595 - Afbeelding Eframe_0150.png genegeerd door gebruiker.
+2025-04-03 20:47:05,872 - Afbeelding Eframe_0151.png genegeerd door gebruiker.
+2025-04-03 20:47:06,114 - Afbeelding Eframe_0152.png genegeerd door gebruiker.
+2025-04-03 20:47:06,323 - Afbeelding Eframe_0153.png genegeerd door gebruiker.
+2025-04-03 20:47:06,601 - Afbeelding Eframe_0154.png genegeerd door gebruiker.
+2025-04-03 20:47:06,769 - Afbeelding Eframe_0155.png genegeerd door gebruiker.
+2025-04-03 20:47:06,925 - Afbeelding Eframe_0156.png genegeerd door gebruiker.
+2025-04-03 20:47:07,172 - Afbeelding Eframe_0157.png genegeerd door gebruiker.
+2025-04-03 20:47:07,421 - Afbeelding Eframe_0158.png genegeerd door gebruiker.
+2025-04-03 20:47:07,587 - Afbeelding Eframe_0159.png genegeerd door gebruiker.
+2025-04-03 20:47:07,759 - Afbeelding Eframe_0160.png genegeerd door gebruiker.
+2025-04-03 20:47:07,906 - Afbeelding Eframe_0161.png genegeerd door gebruiker.
+2025-04-03 20:47:08,051 - Afbeelding Eframe_0162.png genegeerd door gebruiker.
+2025-04-03 20:47:08,200 - Afbeelding Eframe_0163.png genegeerd door gebruiker.
+2025-04-03 20:47:08,344 - Afbeelding Eframe_0164.png genegeerd door gebruiker.
+2025-04-03 20:47:08,508 - Afbeelding Eframe_0165.png genegeerd door gebruiker.
+2025-04-03 20:47:08,652 - Afbeelding Eframe_0166.png genegeerd door gebruiker.
+2025-04-03 20:47:08,821 - Afbeelding Eframe_0167.png genegeerd door gebruiker.
+2025-04-03 20:47:08,977 - Afbeelding Eframe_0168.png genegeerd door gebruiker.
+2025-04-03 20:47:09,121 - Afbeelding Eframe_0169.png genegeerd door gebruiker.
+2025-04-03 20:47:09,270 - Afbeelding Eframe_0170.png genegeerd door gebruiker.
+2025-04-03 20:47:09,436 - Afbeelding Eframe_0171.png genegeerd door gebruiker.
+2025-04-03 20:47:09,598 - Afbeelding Eframe_0172.png genegeerd door gebruiker.
+2025-04-03 20:47:09,748 - Afbeelding Eframe_0173.png genegeerd door gebruiker.
+2025-04-03 20:47:09,902 - Afbeelding Eframe_0174.png genegeerd door gebruiker.
+2025-04-03 20:47:10,099 - Afbeelding Eframe_0175.png genegeerd door gebruiker.
+2025-04-03 20:47:10,319 - Afbeelding Eframe_0176.png genegeerd door gebruiker.
+2025-04-03 20:47:10,475 - Afbeelding Eframe_0177.png genegeerd door gebruiker.
+2025-04-03 20:47:10,678 - Afbeelding Eframe_0178.png genegeerd door gebruiker.
+2025-04-03 20:47:10,862 - Afbeelding Eframe_0179.png genegeerd door gebruiker.
+2025-04-03 20:47:11,092 - Afbeelding Eframe_0180.png genegeerd door gebruiker.
+2025-04-03 20:47:11,318 - Afbeelding Eframe_0181.png genegeerd door gebruiker.
+2025-04-03 20:47:11,504 - Afbeelding Eframe_0182.png genegeerd door gebruiker.
+2025-04-03 20:47:11,683 - Afbeelding Eframe_0183.png genegeerd door gebruiker.
+2025-04-03 20:47:11,828 - Afbeelding Eframe_0184.png genegeerd door gebruiker.
+2025-04-03 20:47:11,980 - Afbeelding Eframe_0185.png genegeerd door gebruiker.
+2025-04-03 20:47:12,133 - Afbeelding Eframe_0186.png genegeerd door gebruiker.
+2025-04-03 20:47:12,281 - Afbeelding Eframe_0187.png genegeerd door gebruiker.
+2025-04-03 20:47:12,436 - Afbeelding Eframe_0188.png genegeerd door gebruiker.
+2025-04-03 20:47:12,594 - Afbeelding Eframe_0189.png genegeerd door gebruiker.
+2025-04-03 20:47:12,830 - Afbeelding Eframe_0190.png genegeerd door gebruiker.
+2025-04-03 20:47:13,063 - Afbeelding Eframe_0191.png genegeerd door gebruiker.
+2025-04-03 20:47:13,250 - Afbeelding Eframe_0192.png genegeerd door gebruiker.
+2025-04-03 20:47:13,481 - Afbeelding Eframe_0193.png genegeerd door gebruiker.
+2025-04-03 20:47:13,641 - Afbeelding Eframe_0194.png genegeerd door gebruiker.
+2025-04-03 20:47:13,791 - Afbeelding Eframe_0195.png genegeerd door gebruiker.
+2025-04-03 20:47:13,941 - Afbeelding Eframe_0196.png genegeerd door gebruiker.
+2025-04-03 20:47:14,099 - Afbeelding Eframe_0197.png genegeerd door gebruiker.
+2025-04-03 20:47:14,255 - Afbeelding Eframe_0198.png genegeerd door gebruiker.
+2025-04-03 20:47:14,403 - Afbeelding Eframe_0199.png genegeerd door gebruiker.
+2025-04-03 20:47:14,551 - Afbeelding Eframe_0200.png genegeerd door gebruiker.
+2025-04-03 20:47:14,703 - Afbeelding Eframe_0201.png genegeerd door gebruiker.
+2025-04-03 20:47:14,871 - Afbeelding Eframe_0202.png genegeerd door gebruiker.
+2025-04-03 20:47:15,081 - Afbeelding Eframe_0203.png genegeerd door gebruiker.
+2025-04-03 20:47:15,285 - Afbeelding Eframe_0204.png genegeerd door gebruiker.
+2025-04-03 20:47:15,549 - Afbeelding Eframe_0205.png genegeerd door gebruiker.
+2025-04-03 20:47:15,854 - Afbeelding Eframe_0206.png genegeerd door gebruiker.
+2025-04-03 20:47:16,022 - Afbeelding Eframe_0207.png genegeerd door gebruiker.
+2025-04-03 20:47:16,258 - Afbeelding Eframe_0208.png genegeerd door gebruiker.
+2025-04-03 20:47:16,491 - Afbeelding Eframe_0209.png genegeerd door gebruiker.
+2025-04-03 20:47:16,726 - Afbeelding Eframe_0210.png genegeerd door gebruiker.
+2025-04-03 20:47:16,965 - Afbeelding Eframe_0211.png genegeerd door gebruiker.
+2025-04-03 20:47:17,246 - Afbeelding Eframe_0212.png genegeerd door gebruiker.
+2025-04-03 20:47:17,433 - Afbeelding Eframe_0213.png genegeerd door gebruiker.
+2025-04-03 20:47:17,665 - Afbeelding Eframe_0214.png genegeerd door gebruiker.
+2025-04-03 20:47:17,846 - Afbeelding Eframe_0215.png genegeerd door gebruiker.
+2025-04-03 20:47:17,990 - Afbeelding Eframe_0216.png genegeerd door gebruiker.
+2025-04-03 20:47:18,147 - Afbeelding Eframe_0217.png genegeerd door gebruiker.
+2025-04-03 20:47:18,306 - Afbeelding Eframe_0218.png genegeerd door gebruiker.
+2025-04-03 20:47:18,487 - Afbeelding Eframe_0219.png genegeerd door gebruiker.
+2025-04-03 20:47:18,732 - Afbeelding Eframe_0220.png genegeerd door gebruiker.
+2025-04-03 20:47:18,883 - Afbeelding Eframe_0221.png genegeerd door gebruiker.
+2025-04-03 20:47:19,040 - Afbeelding Eframe_0222.png genegeerd door gebruiker.
+2025-04-03 20:47:19,191 - Afbeelding Eframe_0223.png genegeerd door gebruiker.
+2025-04-03 20:47:19,459 - Afbeelding Eframe_0224.png genegeerd door gebruiker.
+2025-04-03 20:47:19,709 - Afbeelding Eframe_0225.png genegeerd door gebruiker.
+2025-04-03 20:47:19,865 - Afbeelding Eframe_0226.png genegeerd door gebruiker.
+2025-04-03 20:47:20,039 - Afbeelding Eframe_0227.png genegeerd door gebruiker.
+2025-04-03 20:47:20,310 - Afbeelding Eframe_0228.png genegeerd door gebruiker.
+2025-04-03 20:47:20,562 - Afbeelding Eframe_0229.png genegeerd door gebruiker.
+2025-04-03 20:47:20,961 - Afbeelding Eframe_0230.png genegeerd door gebruiker.
+2025-04-03 20:47:21,452 - Afbeelding Eframe_0231.png genegeerd door gebruiker.
+2025-04-03 20:47:21,795 - Afbeelding Eframe_0232.png genegeerd door gebruiker.
+2025-04-03 20:47:22,258 - Afbeelding Eframe_0233.png genegeerd door gebruiker.
+2025-04-03 20:47:22,767 - Afbeelding Eframe_0234.png genegeerd door gebruiker.
+2025-04-03 20:47:23,155 - Afbeelding Eframe_0235.png genegeerd door gebruiker.
+2025-04-03 20:47:23,477 - Afbeelding Eframe_0236.png genegeerd door gebruiker.
+2025-04-03 20:47:23,860 - Afbeelding Eframe_0237.png genegeerd door gebruiker.
+2025-04-03 20:47:24,186 - Afbeelding Eframe_0238.png genegeerd door gebruiker.
+2025-04-03 20:47:24,637 - Afbeelding Eframe_0239.png genegeerd door gebruiker.
+2025-04-03 20:47:25,108 - Afbeelding Eframe_0240.png genegeerd door gebruiker.
+2025-04-03 20:47:25,473 - Afbeelding Eframe_0241.png genegeerd door gebruiker.
+2025-04-03 20:47:25,891 - Afbeelding Eframe_0242.png genegeerd door gebruiker.
+2025-04-03 20:47:26,341 - Afbeelding Eframe_0243.png genegeerd door gebruiker.
+2025-04-03 20:47:26,791 - Afbeelding Eframe_0244.png genegeerd door gebruiker.
+2025-04-03 20:47:27,181 - Afbeelding Eframe_0245.png genegeerd door gebruiker.
+2025-04-03 20:47:27,539 - Afbeelding Eframe_0246.png genegeerd door gebruiker.
+2025-04-03 20:47:27,927 - Afbeelding Eframe_0247.png genegeerd door gebruiker.
+2025-04-03 20:47:28,383 - Afbeelding Eframe_0248.png genegeerd door gebruiker.
+2025-04-03 20:47:29,013 - Afbeelding Eframe_0249.png genegeerd door gebruiker.
+2025-04-03 20:47:29,419 - Afbeelding Eframe_0250.png genegeerd door gebruiker.
+2025-04-03 20:47:29,910 - Afbeelding Eframe_0251.png genegeerd door gebruiker.
+2025-04-03 20:47:30,303 - Afbeelding Eframe_0252.png genegeerd door gebruiker.
+2025-04-03 20:47:30,649 - Afbeelding Eframe_0253.png genegeerd door gebruiker.
+2025-04-03 20:47:30,972 - Afbeelding Eframe_0254.png genegeerd door gebruiker.
+2025-04-03 20:47:31,439 - Afbeelding Eframe_0255.png genegeerd door gebruiker.
+2025-04-03 20:47:31,844 - Afbeelding Eframe_0256.png genegeerd door gebruiker.
+2025-04-03 20:47:32,153 - Afbeelding Eframe_0257.png genegeerd door gebruiker.
+2025-04-03 20:47:32,471 - Afbeelding Eframe_0258.png genegeerd door gebruiker.
+2025-04-03 20:47:32,825 - Afbeelding Eframe_0259.png genegeerd door gebruiker.
+2025-04-03 20:47:33,161 - Afbeelding Eframe_0260.png genegeerd door gebruiker.
+2025-04-03 20:47:33,491 - Afbeelding Eframe_0261.png genegeerd door gebruiker.
+2025-04-03 20:47:33,814 - Afbeelding Eframe_0262.png genegeerd door gebruiker.
+2025-04-03 20:47:34,160 - Afbeelding Eframe_0263.png genegeerd door gebruiker.
+2025-04-03 20:47:34,495 - Afbeelding Eframe_0264.png genegeerd door gebruiker.
+2025-04-03 20:47:34,822 - Afbeelding Eframe_0265.png genegeerd door gebruiker.
+2025-04-03 20:47:35,153 - Afbeelding Eframe_0266.png genegeerd door gebruiker.
+2025-04-03 20:47:35,477 - Afbeelding Eframe_0267.png genegeerd door gebruiker.
+2025-04-03 20:47:35,859 - Afbeelding Eframe_0268.png genegeerd door gebruiker.
+2025-04-03 20:49:45,240 - Afbeelding Eframe_0000.png opgeslagen met 1 annotaties
+2025-04-03 20:49:47,092 - Afbeelding Eframe_0001.png opgeslagen met 1 annotaties
+2025-04-03 20:49:48,100 - Afbeelding Eframe_0002.png opgeslagen met 1 annotaties
+2025-04-03 20:49:48,737 - Afbeelding Eframe_0003.png opgeslagen met 1 annotaties
+2025-04-03 20:49:49,270 - Afbeelding Eframe_0004.png opgeslagen met 1 annotaties
+2025-04-03 20:49:51,688 - Afbeelding Eframe_0005.png genegeerd door gebruiker.
+2025-04-03 20:49:52,401 - Afbeelding Eframe_0006.png genegeerd door gebruiker.
+2025-04-03 20:49:54,605 - Afbeelding Eframe_0007.png genegeerd door gebruiker.
+2025-04-03 20:49:56,291 - Afbeelding Eframe_0008.png opgeslagen met 2 annotaties
+2025-04-03 20:49:57,046 - Afbeelding Eframe_0009.png opgeslagen met 1 annotaties
+2025-04-03 20:49:57,967 - Afbeelding Eframe_0010.png opgeslagen met 1 annotaties
+2025-04-03 20:49:59,578 - Afbeelding Eframe_0011.png opgeslagen met 1 annotaties
+2025-04-03 20:50:00,740 - Afbeelding Eframe_0012.png genegeerd door gebruiker.
+2025-04-03 20:50:01,898 - Afbeelding Eframe_0013.png opgeslagen met 1 annotaties
+2025-04-03 20:50:03,115 - Afbeelding Eframe_0014.png genegeerd door gebruiker.
+2025-04-03 20:50:03,840 - Afbeelding Eframe_0015.png genegeerd door gebruiker.
+2025-04-03 20:50:04,961 - Afbeelding Eframe_0016.png opgeslagen met 1 annotaties
+2025-04-03 20:50:06,071 - Afbeelding Eframe_0017.png opgeslagen met 1 annotaties
+2025-04-03 20:50:06,708 - Afbeelding Eframe_0018.png opgeslagen met 1 annotaties
+2025-04-03 20:50:07,256 - Afbeelding Eframe_0019.png opgeslagen met 1 annotaties
+2025-04-03 20:50:07,811 - Afbeelding Eframe_0020.png opgeslagen met 1 annotaties
+2025-04-03 20:50:08,833 - Afbeelding Eframe_0021.png genegeerd door gebruiker.
+2025-04-03 20:50:09,521 - Afbeelding Eframe_0022.png genegeerd door gebruiker.
+2025-04-03 20:50:10,191 - Afbeelding Eframe_0023.png genegeerd door gebruiker.
+2025-04-03 20:50:11,858 - Afbeelding Eframe_0024.png opgeslagen met 1 annotaties
+2025-04-03 20:50:13,019 - Afbeelding Eframe_0025.png genegeerd door gebruiker.
+2025-04-03 20:50:13,651 - Afbeelding Eframe_0026.png genegeerd door gebruiker.
+2025-04-03 20:50:14,161 - Afbeelding Eframe_0027.png genegeerd door gebruiker.
+2025-04-03 20:50:14,736 - Afbeelding Eframe_0028.png genegeerd door gebruiker.
+2025-04-03 20:50:15,281 - Afbeelding Eframe_0029.png genegeerd door gebruiker.
+2025-04-03 20:50:26,342 - Afbeelding Eframe_0030.png genegeerd door gebruiker.
+2025-04-03 20:50:27,122 - Afbeelding Eframe_0031.png genegeerd door gebruiker.
+2025-04-03 20:50:27,530 - Afbeelding Eframe_0032.png genegeerd door gebruiker.
+2025-04-03 20:50:27,805 - Afbeelding Eframe_0033.png genegeerd door gebruiker.
+2025-04-03 20:50:28,141 - Afbeelding Eframe_0034.png genegeerd door gebruiker.
+2025-04-03 20:50:29,833 - Afbeelding Eframe_0035.png genegeerd door gebruiker.
+2025-04-03 20:50:31,090 - Afbeelding Eframe_0036.png genegeerd door gebruiker.
+2025-04-03 20:50:32,802 - Afbeelding Eframe_0037.png genegeerd door gebruiker.
+2025-04-03 20:50:33,530 - Afbeelding Eframe_0038.png genegeerd door gebruiker.
+2025-04-03 20:50:33,712 - Afbeelding Eframe_0039.png genegeerd door gebruiker.
+2025-04-03 20:50:33,881 - Afbeelding Eframe_0040.png genegeerd door gebruiker.
+2025-04-03 20:50:34,026 - Afbeelding Eframe_0041.png genegeerd door gebruiker.
+2025-04-03 20:50:34,181 - Afbeelding Eframe_0042.png genegeerd door gebruiker.
+2025-04-03 20:50:41,654 - Afbeelding Eframe_0043.png opgeslagen met 1 annotaties
+2025-04-03 20:50:42,931 - Afbeelding Eframe_0044.png opgeslagen met 1 annotaties
+2025-04-03 20:50:44,280 - Afbeelding Eframe_0045.png opgeslagen met 1 annotaties
+2025-04-03 20:50:45,419 - Afbeelding Eframe_0046.png opgeslagen met 1 annotaties
+2025-04-03 20:50:47,644 - Afbeelding Eframe_0047.png opgeslagen met 1 annotaties
+2025-04-03 20:50:49,836 - Afbeelding Eframe_0048.png genegeerd door gebruiker.
+2025-04-03 20:50:50,689 - Afbeelding Eframe_0049.png genegeerd door gebruiker.
+2025-04-03 20:50:51,322 - Afbeelding Eframe_0050.png genegeerd door gebruiker.
+2025-04-03 20:50:51,937 - Afbeelding Eframe_0051.png genegeerd door gebruiker.
+2025-04-03 20:50:53,856 - Afbeelding Eframe_0052.png genegeerd door gebruiker.
+2025-04-03 20:53:45,626 - Afbeelding Eframe_0000.png genegeerd door gebruiker.
+2025-04-03 20:53:45,797 - Afbeelding Eframe_0001.png genegeerd door gebruiker.
+2025-04-03 20:53:45,948 - Afbeelding Eframe_0002.png genegeerd door gebruiker.
+2025-04-03 20:53:46,094 - Afbeelding Eframe_0003.png genegeerd door gebruiker.
+2025-04-03 20:53:46,382 - Frame Eframe_0005.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:46,523 - Frame Eframe_0006.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:46,668 - Frame Eframe_0007.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:46,814 - Afbeelding Eframe_0008.png genegeerd door gebruiker.
+2025-04-03 20:53:46,968 - Afbeelding Eframe_0009.png genegeerd door gebruiker.
+2025-04-03 20:53:47,116 - Afbeelding Eframe_0010.png genegeerd door gebruiker.
+2025-04-03 20:53:47,261 - Afbeelding Eframe_0011.png genegeerd door gebruiker.
+2025-04-03 20:53:47,401 - Frame Eframe_0012.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:47,549 - Afbeelding Eframe_0013.png genegeerd door gebruiker.
+2025-04-03 20:53:47,694 - Frame Eframe_0014.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:47,841 - Frame Eframe_0015.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:47,988 - Afbeelding Eframe_0016.png genegeerd door gebruiker.
+2025-04-03 20:53:48,283 - Afbeelding Eframe_0018.png genegeerd door gebruiker.
+2025-04-03 20:53:48,423 - Afbeelding Eframe_0019.png genegeerd door gebruiker.
+2025-04-03 20:53:48,575 - Afbeelding Eframe_0020.png genegeerd door gebruiker.
+2025-04-03 20:53:48,733 - Frame Eframe_0021.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:48,884 - Frame Eframe_0022.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:49,036 - Frame Eframe_0023.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:49,224 - Afbeelding Eframe_0024.png genegeerd door gebruiker.
+2025-04-03 20:53:49,517 - Frame Eframe_0025.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:49,812 - Frame Eframe_0026.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:49,962 - Frame Eframe_0027.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:50,115 - Frame Eframe_0028.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:50,259 - Frame Eframe_0029.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:50,437 - Frame Eframe_0030.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:50,716 - Frame Eframe_0031.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:51,016 - Frame Eframe_0032.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:51,206 - Frame Eframe_0033.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:51,370 - Frame Eframe_0034.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:51,554 - Frame Eframe_0035.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:51,833 - Frame Eframe_0036.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:52,130 - Frame Eframe_0037.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:52,431 - Frame Eframe_0038.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:52,726 - Frame Eframe_0039.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:52,983 - Frame Eframe_0040.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:54,082 - Afbeelding Eframe_0045.png genegeerd door gebruiker.
+2025-04-03 20:53:54,242 - Afbeelding Eframe_0046.png genegeerd door gebruiker.
+2025-04-03 20:53:54,400 - Afbeelding Eframe_0047.png genegeerd door gebruiker.
+2025-04-03 20:53:54,554 - Frame Eframe_0048.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:54,712 - Frame Eframe_0049.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:55,003 - Frame Eframe_0050.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:55,240 - Frame Eframe_0051.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:55,522 - Frame Eframe_0052.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:55,745 - Frame Eframe_0053.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:55,982 - Frame Eframe_0054.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:56,189 - Frame Eframe_0055.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:56,451 - Frame Eframe_0056.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:56,713 - Frame Eframe_0057.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:56,948 - Frame Eframe_0058.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:57,106 - Frame Eframe_0059.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:57,277 - Afbeelding Eframe_0060.png genegeerd door gebruiker.
+2025-04-03 20:53:57,427 - Afbeelding Eframe_0061.png genegeerd door gebruiker.
+2025-04-03 20:53:57,715 - Frame Eframe_0063.png automatisch verwijderd (geen detecties).
+2025-04-03 20:53:57,864 - Afbeelding Eframe_0064.png genegeerd door gebruiker.
+2025-04-03 20:59:43,482 - Afbeelding Eframe_0000.png opgeslagen met 1 annotaties
+2025-04-03 20:59:44,502 - Afbeelding Eframe_0001.png opgeslagen met 1 annotaties
+2025-04-03 20:59:45,251 - Afbeelding Eframe_0002.png opgeslagen met 1 annotaties
+2025-04-03 20:59:45,764 - Afbeelding Eframe_0003.png opgeslagen met 1 annotaties
+2025-04-03 20:59:46,224 - Afbeelding Eframe_0004.png opgeslagen met 1 annotaties
+2025-04-03 20:59:46,417 - Frame Eframe_0005.png automatisch verwijderd (geen detecties).
+2025-04-03 20:59:46,566 - Frame Eframe_0006.png automatisch verwijderd (geen detecties).
+2025-04-03 20:59:46,720 - Frame Eframe_0007.png automatisch verwijderd (geen detecties).
+2025-04-03 20:59:46,870 - Afbeelding Eframe_0008.png opgeslagen met 2 annotaties
+2025-04-03 20:59:49,756 - Afbeelding Eframe_0009.png opgeslagen met 1 annotaties
+2025-04-03 20:59:51,008 - Afbeelding Eframe_0010.png opgeslagen met 1 annotaties
+2025-04-03 20:59:53,249 - Afbeelding Eframe_0011.png opgeslagen met 1 annotaties
+2025-04-03 20:59:53,510 - Frame Eframe_0012.png automatisch verwijderd (geen detecties).
+2025-04-03 20:59:54,232 - Afbeelding Eframe_0013.png opgeslagen met 1 annotaties
+2025-04-03 20:59:54,457 - Frame Eframe_0014.png automatisch verwijderd (geen detecties).
+2025-04-03 20:59:54,663 - Frame Eframe_0015.png automatisch verwijderd (geen detecties).
+2025-04-03 20:59:55,580 - Afbeelding Eframe_0016.png opgeslagen met 1 annotaties
+2025-04-03 20:59:56,364 - Afbeelding Eframe_0017.png opgeslagen met 1 annotaties
+2025-04-03 20:59:57,395 - Afbeelding Eframe_0018.png opgeslagen met 1 annotaties
+2025-04-03 20:59:58,185 - Afbeelding Eframe_0019.png opgeslagen met 1 annotaties
+2025-04-03 20:59:58,761 - Afbeelding Eframe_0020.png opgeslagen met 1 annotaties
+2025-04-03 20:59:59,008 - Frame Eframe_0021.png automatisch verwijderd (geen detecties).
+2025-04-03 20:59:59,156 - Frame Eframe_0022.png automatisch verwijderd (geen detecties).
+2025-04-03 20:59:59,306 - Frame Eframe_0023.png automatisch verwijderd (geen detecties).
+2025-04-03 21:00:03,487 - Afbeelding Eframe_0024.png opgeslagen met 1 annotaties
+2025-04-03 21:00:03,748 - Frame Eframe_0025.png automatisch verwijderd (geen detecties).
+2025-04-03 21:00:03,947 - Frame Eframe_0026.png automatisch verwijderd (geen detecties).
+2025-04-03 21:00:04,102 - Frame Eframe_0027.png automatisch verwijderd (geen detecties).
+2025-04-03 21:00:04,249 - Frame Eframe_0028.png automatisch verwijderd (geen detecties).
+2025-04-03 21:00:04,387 - Frame Eframe_0029.png automatisch verwijderd (geen detecties).
+2025-04-03 21:00:04,527 - Frame Eframe_0030.png automatisch verwijderd (geen detecties).
+2025-04-03 21:00:04,671 - Frame Eframe_0031.png automatisch verwijderd (geen detecties).
+2025-04-03 21:00:04,817 - Frame Eframe_0032.png automatisch verwijderd (geen detecties).
+2025-04-03 21:00:04,963 - Frame Eframe_0033.png automatisch verwijderd (geen detecties).
+2025-04-03 21:00:05,111 - Frame Eframe_0034.png automatisch verwijderd (geen detecties).
+2025-04-03 21:00:05,260 - Frame Eframe_0035.png automatisch verwijderd (geen detecties).
+2025-04-03 21:00:05,409 - Frame Eframe_0036.png automatisch verwijderd (geen detecties).
+2025-04-03 21:00:05,551 - Frame Eframe_0037.png automatisch verwijderd (geen detecties).
+2025-04-03 21:00:05,697 - Frame Eframe_0038.png automatisch verwijderd (geen detecties).
+2025-04-03 21:00:05,842 - Frame Eframe_0039.png automatisch verwijderd (geen detecties).
+2025-04-03 21:00:05,982 - Frame Eframe_0040.png automatisch verwijderd (geen detecties).
+2025-04-03 21:00:21,436 - Afbeelding Eframe_0041.png opgeslagen met 1 annotaties
+2025-04-03 21:00:22,653 - Afbeelding Eframe_0042.png opgeslagen met 1 annotaties
+2025-04-03 21:00:23,191 - Afbeelding Eframe_0043.png opgeslagen met 1 annotaties
+2025-04-03 21:00:23,745 - Afbeelding Eframe_0044.png opgeslagen met 1 annotaties
+2025-04-03 21:00:24,274 - Afbeelding Eframe_0045.png opgeslagen met 1 annotaties
+2025-04-03 21:00:27,964 - Afbeelding Eframe_0046.png opgeslagen met 1 annotaties
+2025-04-03 21:00:29,785 - Afbeelding Eframe_0047.png opgeslagen met 1 annotaties
+2025-04-03 21:00:30,058 - Frame Eframe_0048.png automatisch verwijderd (geen detecties).
+2025-04-03 21:00:30,206 - Frame Eframe_0049.png automatisch verwijderd (geen detecties).
+2025-04-03 21:00:30,346 - Frame Eframe_0050.png automatisch verwijderd (geen detecties).
+2025-04-03 21:00:30,495 - Frame Eframe_0051.png automatisch verwijderd (geen detecties).
+2025-04-03 21:00:30,655 - Frame Eframe_0052.png automatisch verwijderd (geen detecties).
+2025-04-03 21:00:30,796 - Frame Eframe_0053.png automatisch verwijderd (geen detecties).
+2025-04-03 21:00:30,937 - Frame Eframe_0054.png automatisch verwijderd (geen detecties).
+2025-04-03 21:00:31,088 - Frame Eframe_0055.png automatisch verwijderd (geen detecties).
+2025-04-03 21:00:31,236 - Frame Eframe_0056.png automatisch verwijderd (geen detecties).
+2025-04-03 21:00:31,382 - Frame Eframe_0057.png automatisch verwijderd (geen detecties).
+2025-04-03 21:00:31,529 - Frame Eframe_0058.png automatisch verwijderd (geen detecties).
+2025-04-03 21:00:31,675 - Frame Eframe_0059.png automatisch verwijderd (geen detecties).
+2025-04-03 21:20:16,018 - Afbeelding Eframe_0060.png opgeslagen met 1 annotaties
+2025-04-03 21:20:17,198 - Afbeelding Eframe_0061.png opgeslagen met 1 annotaties
+2025-04-03 21:20:17,923 - Afbeelding Eframe_0062.png opgeslagen met 1 annotaties
+2025-04-03 21:20:18,154 - Frame Eframe_0063.png automatisch verwijderd (geen detecties).
+2025-04-03 21:20:18,850 - Afbeelding Eframe_0064.png opgeslagen met 1 annotaties
+2025-04-03 21:20:25,753 - Afbeelding Eframe_0065.png opgeslagen met 1 annotaties
+2025-04-03 21:20:26,586 - Afbeelding Eframe_0066.png opgeslagen met 1 annotaties
+2025-04-03 21:20:27,165 - Afbeelding Eframe_0067.png opgeslagen met 1 annotaties
+2025-04-03 21:20:27,730 - Afbeelding Eframe_0068.png opgeslagen met 1 annotaties
+2025-04-03 21:20:28,243 - Afbeelding Eframe_0069.png opgeslagen met 1 annotaties
+2025-04-03 21:20:28,893 - Afbeelding Eframe_0070.png opgeslagen met 1 annotaties
+2025-04-03 21:20:29,563 - Afbeelding Eframe_0071.png opgeslagen met 1 annotaties
+2025-04-03 21:20:30,067 - Afbeelding Eframe_0072.png opgeslagen met 1 annotaties
+2025-04-03 21:20:30,335 - Frame Eframe_0073.png automatisch verwijderd (geen detecties).
+2025-04-03 21:20:30,599 - Afbeelding Eframe_0074.png opgeslagen met 1 annotaties
+2025-04-03 21:20:31,432 - Afbeelding Eframe_0075.png opgeslagen met 1 annotaties
+2025-04-03 21:20:32,209 - Afbeelding Eframe_0076.png opgeslagen met 1 annotaties
+2025-04-03 21:20:32,453 - Frame Eframe_0077.png automatisch verwijderd (geen detecties).
+2025-04-03 21:20:32,667 - Frame Eframe_0078.png automatisch verwijderd (geen detecties).
+2025-04-03 21:20:32,908 - Frame Eframe_0079.png automatisch verwijderd (geen detecties).
+2025-04-03 21:20:33,085 - Frame Eframe_0080.png automatisch verwijderd (geen detecties).
+2025-04-03 21:20:33,273 - Frame Eframe_0081.png automatisch verwijderd (geen detecties).
+2025-04-03 21:20:33,452 - Afbeelding Eframe_0082.png opgeslagen met 1 annotaties
+2025-04-03 21:20:33,636 - Frame Eframe_0083.png automatisch verwijderd (geen detecties).
+2025-04-03 21:20:33,827 - Frame Eframe_0084.png automatisch verwijderd (geen detecties).
+2025-04-03 21:20:34,043 - Frame Eframe_0085.png automatisch verwijderd (geen detecties).
+2025-04-03 21:20:34,233 - Frame Eframe_0086.png automatisch verwijderd (geen detecties).
+2025-04-03 21:20:34,402 - Frame Eframe_0087.png automatisch verwijderd (geen detecties).
+2025-04-03 21:20:34,590 - Frame Eframe_0088.png automatisch verwijderd (geen detecties).
+2025-04-03 21:20:34,789 - Frame Eframe_0089.png automatisch verwijderd (geen detecties).
+2025-04-03 21:20:34,972 - Frame Eframe_0090.png automatisch verwijderd (geen detecties).
+2025-04-03 21:20:35,144 - Frame Eframe_0091.png automatisch verwijderd (geen detecties).
+2025-04-03 21:20:35,320 - Frame Eframe_0092.png automatisch verwijderd (geen detecties).
+2025-04-03 21:20:36,975 - Afbeelding Eframe_0093.png opgeslagen met 1 annotaties
+2025-04-03 21:20:37,643 - Afbeelding Eframe_0094.png opgeslagen met 1 annotaties
+2025-04-03 21:20:38,284 - Afbeelding Eframe_0095.png opgeslagen met 1 annotaties
+2025-04-03 21:20:38,538 - Frame Eframe_0096.png automatisch verwijderd (geen detecties).
+2025-04-03 21:20:39,165 - Afbeelding Eframe_0097.png opgeslagen met 1 annotaties
+2025-04-03 22:09:03,608 - Image Eframe_0000.png saved with 1 annotations
+2025-04-03 22:09:04,943 - Image Eframe_0001.png saved with 1 annotations
+2025-04-03 22:09:05,911 - Image Eframe_0002.png saved with 1 annotations
+2025-04-03 22:09:06,782 - Image Eframe_0003.png saved with 1 annotations
+2025-04-03 22:09:07,597 - Image Eframe_0004.png saved with 1 annotations
+2025-04-03 22:09:07,858 - Frame Eframe_0005.png auto-deleted (no detection).
+2025-04-03 22:09:08,078 - Frame Eframe_0006.png auto-deleted (no detection).
+2025-04-03 22:09:08,302 - Frame Eframe_0007.png auto-deleted (no detection).
+2025-04-03 22:09:08,748 - Image Eframe_0008.png saved with 2 annotations
+2025-04-03 22:09:10,319 - Image Eframe_0009.png saved with 1 annotations
+2025-04-03 22:09:11,436 - Image Eframe_0010.png saved with 1 annotations
+2025-04-03 22:09:12,435 - Image Eframe_0011.png saved with 1 annotations
+2025-04-03 22:09:12,711 - Frame Eframe_0012.png auto-deleted (no detection).
+2025-04-03 22:20:15,438 - Image Eframe_0000.png saved with 1 annotations
+2025-04-03 22:20:16,874 - Image Eframe_0001.png saved with 1 annotations
+2025-04-03 22:23:18,720 - Image Eframe_0000.png saved with 1 annotations
+2025-04-03 22:23:20,877 - Image Eframe_0001.png saved with 1 annotations
+2025-04-03 22:23:24,060 - Image Eframe_0002.png saved with 1 annotations
