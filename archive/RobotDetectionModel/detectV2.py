@@ -4,7 +4,7 @@ import supervision as sv
 from ultralytics import YOLO
 
 # Load Model
-model = YOLO("RobotDetectionv8Large.pt")
+model = YOLO("./RobotDetectionv8Large.pt")
 tracker = sv.ByteTrack()
 box_annotator = sv.BoundingBoxAnnotator()
 label_annotator = sv.LabelAnnotator()

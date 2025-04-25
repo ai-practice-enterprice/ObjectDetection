@@ -223,7 +223,7 @@ class YoloAnnotationTool:
 
 if __name__ == "__main__":
     # Configuratie
-    SOURCE_FOLDER = "sourceFolder2"
+    SOURCE_FOLDER = "sourceFolder"
     TARGET_FOLDER = "targetFolder"
     CLASSES = ["je-tank","jetracer"]
     CONFIDENCE_THRESHOLD = 0              
